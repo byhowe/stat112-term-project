@@ -1,0 +1,13 @@
+The dataset includes the several properties of the 115 tractors produced by 
+three different brands with their price. 
+
+price: the price of the tractor
+horsepower: the horsepower of the tractor
+brand: the brand of the tractor
+number_of_cylinder: the number of cylinder of the tractor
+number_of_clicking: the number of clicking of the tractor on the brand's web page 
+number_of_failure: the number of failure of the tractor model since it has been produced
+province: the name of the province where the tractor was sold 
+warranty_period: the warranty period of the tractor
+warranty_period_unit: the unit of the warranty period (year)
+age : the age of the tractor 
