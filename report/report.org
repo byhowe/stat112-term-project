@@ -1,0 +1,16 @@
+#+title: Report
+#+subtitle: Analysis of the Tractor Sales Dataset
+#+author: Deniz Erkut, Melih Akaya, Ömer Faruk Çavuş, Selin Evran and Tuba Ayrıç
+#+latex_class_options: [a4paper,12pt]
+#+latex_header: \include{structure.tex}
+
+* Abstract :ignore:
+#+begin_abstract
+This is the abstract.
+#+end_abstract
+* Introduction
+* Data pre-processing stage
+* Exploratory data analysis
+* Conclusion
+* Reference :ignore:
+* Footnotes
